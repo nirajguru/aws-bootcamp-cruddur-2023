@@ -14,5 +14,6 @@
 ![Billing alerts](../_docs/assets/week0/billing_alerts.png)
 # Created conceptual diagram
 ![Conceptual Diagram](../_docs/assets/week0/conceptual.png)
-[Lucid Link](https://lucid.app/lucidchart/9a6b4a38-64cd-4210-abdb-7c687ad2803a/edit?invitationId=inv_6f0fb53d-1e8c-40b7-b770-8a1e6ed08a31&page=0_0#)
 # Created logical diagram
+![Logical Diagram](../_docs/assets/week0/logical.png)
+[Lucid Link](https://lucid.app/lucidchart/9a6b4a38-64cd-4210-abdb-7c687ad2803a/edit?invitationId=inv_6f0fb53d-1e8c-40b7-b770-8a1e6ed08a31&page=0_0#)
