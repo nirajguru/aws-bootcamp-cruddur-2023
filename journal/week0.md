@@ -7,7 +7,7 @@
 # Created an admin user
 ![Admin user](../_docs/assets/week0/admin.png)
 # Installed AWS CLI
-![AWS CLI](../_docs/assets/aws_cli.png)
+![AWS CLI](../_docs/assets/week0/aws_cli.png)
 # Created a budget
 ![AWS Budgets](../_docs/assets/week0/budgets.png)
 # Created a billing alarm
